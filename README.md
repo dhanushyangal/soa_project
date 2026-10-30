@@ -7,7 +7,14 @@ College project (PS025). Real-time auction floor: Next.js frontend and Spring Bo
 | Frontend | `soa-bidding` | https://github.com/dhanushyangal/soa_frountend |
 | Backend | `soa-bidding-backend` | https://github.com/dhanushyangal/Soa_backand |
 
-Start the **backend first**, then the frontend. Use two terminals.
+These are two separate git repositories. Clone them side by side, then start the **backend first** and the frontend second. Use two terminals.
+
+```bash
+git clone https://github.com/dhanushyangal/Soa_backand.git soa-bidding-backend
+git clone https://github.com/dhanushyangal/soa_frountend.git soa-bidding
+```
+
+Run the `cd` commands below from the folder that contains both clones. If you already opened only one repo, skip that repo’s `cd`.
 
 ---
 

@@ -1,0 +1,6 @@
+[submodule "soa-bidding"]
+	path = soa-bidding
+	url = https://github.com/dhanushyangal/soa_frountend.git
+[submodule "soa-bidding-backend"]
+	path = soa-bidding-backend
+	url = https://github.com/dhanushyangal/Soa_backand.git
